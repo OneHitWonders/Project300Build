@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 74afc377915878943b65ae1f61f1939d
+timeCreated: 1507386545
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pCone27
+    100002: pCone33
+    100004: pCone35
+    100006: pCone36
+    100008: pCone41
+    100010: pCone42
+    100012: pCone44
+    100014: pCone45
+    100016: pCone47
+    100018: pCylinder30
+    100020: pCylinder35
+    100022: pCylinder36
+    100024: pCylinder37
+    100026: pCylinder38
+    100028: pCylinder41
+    100030: pCylinder45
+    100032: pCylinder47
+    100034: pCylinder50
+    100036: //RootNode
+    400000: pCone27
+    400002: pCone33
+    400004: pCone35
+    400006: pCone36
+    400008: pCone41
+    400010: pCone42
+    400012: pCone44
+    400014: pCone45
+    400016: pCone47
+    400018: pCylinder30
+    400020: pCylinder35
+    400022: pCylinder36
+    400024: pCylinder37
+    400026: pCylinder38
+    400028: pCylinder41
+    400030: pCylinder45
+    400032: pCylinder47
+    400034: pCylinder50
+    400036: //RootNode
+    2300000: pCone27
+    2300002: pCone33
+    2300004: pCone35
+    2300006: pCone36
+    2300008: pCone41
+    2300010: pCone42
+    2300012: pCone44
+    2300014: pCone45
+    2300016: pCone47
+    2300018: pCylinder30
+    2300020: pCylinder35
+    2300022: pCylinder36
+    2300024: pCylinder37
+    2300026: pCylinder38
+    2300028: pCylinder41
+    2300030: pCylinder45
+    2300032: pCylinder47
+    2300034: pCylinder50
+    3300000: pCone27
+    3300002: pCone33
+    3300004: pCone35
+    3300006: pCone36
+    3300008: pCone41
+    3300010: pCone42
+    3300012: pCone44
+    3300014: pCone45
+    3300016: pCone47
+    3300018: pCylinder30
+    3300020: pCylinder35
+    3300022: pCylinder36
+    3300024: pCylinder37
+    3300026: pCylinder38
+    3300028: pCylinder41
+    3300030: pCylinder45
+    3300032: pCylinder47
+    3300034: pCylinder50
+    4300000: pCone27
+    4300002: pCylinder30
+    4300004: pCylinder35
+    4300006: pCylinder36
+    4300008: pCone33
+    4300010: pCylinder37
+    4300012: pCylinder38
+    4300014: pCone35
+    4300016: pCone36
+    4300018: pCylinder41
+    4300020: pCylinder45
+    4300022: pCone41
+    4300024: pCone42
+    4300026: pCylinder47
+    4300028: pCylinder50
+    4300030: pCone44
+    4300032: pCone45
+    4300034: pCone47
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

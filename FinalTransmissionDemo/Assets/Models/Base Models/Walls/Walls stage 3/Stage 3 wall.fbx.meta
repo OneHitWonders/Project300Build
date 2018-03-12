@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: a75c7911e4aaf77448231c71b27b442e
+timeCreated: 1507386545
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pCone53
+    100002: pCone59
+    100004: pCone73
+    100006: pCone75
+    100008: pCone76
+    100010: pCube2
+    100012: pCylinder55
+    100014: pCylinder65
+    100016: pCylinder66
+    100018: pCylinder82
+    100020: pCylinder83
+    100022: pPlane27
+    100024: pPlane28
+    100026: pPlane29
+    100028: pPlane30
+    100030: pPlane31
+    100032: pPlane32
+    100034: pPlane33
+    100036: pPlane34
+    100038: //RootNode
+    400000: pCone53
+    400002: pCone59
+    400004: pCone73
+    400006: pCone75
+    400008: pCone76
+    400010: pCube2
+    400012: pCylinder55
+    400014: pCylinder65
+    400016: pCylinder66
+    400018: pCylinder82
+    400020: pCylinder83
+    400022: pPlane27
+    400024: pPlane28
+    400026: pPlane29
+    400028: pPlane30
+    400030: pPlane31
+    400032: pPlane32
+    400034: pPlane33
+    400036: pPlane34
+    400038: //RootNode
+    2300000: pCone53
+    2300002: pCone59
+    2300004: pCone73
+    2300006: pCone75
+    2300008: pCone76
+    2300010: pCube2
+    2300012: pCylinder55
+    2300014: pCylinder65
+    2300016: pCylinder66
+    2300018: pCylinder82
+    2300020: pCylinder83
+    2300022: pPlane27
+    2300024: pPlane28
+    2300026: pPlane29
+    2300028: pPlane30
+    2300030: pPlane31
+    2300032: pPlane32
+    2300034: pPlane33
+    2300036: pPlane34
+    3300000: pCone53
+    3300002: pCone59
+    3300004: pCone73
+    3300006: pCone75
+    3300008: pCone76
+    3300010: pCube2
+    3300012: pCylinder55
+    3300014: pCylinder65
+    3300016: pCylinder66
+    3300018: pCylinder82
+    3300020: pCylinder83
+    3300022: pPlane27
+    3300024: pPlane28
+    3300026: pPlane29
+    3300028: pPlane30
+    3300030: pPlane31
+    3300032: pPlane32
+    3300034: pPlane33
+    3300036: pPlane34
+    4300000: pCylinder55
+    4300002: pCone53
+    4300004: pCylinder65
+    4300006: pCone59
+    4300008: pCylinder66
+    4300010: pPlane27
+    4300012: pPlane28
+    4300014: pPlane29
+    4300016: pPlane30
+    4300018: pCube2
+    4300020: pCone73
+    4300022: pCylinder82
+    4300024: pCylinder83
+    4300026: pCone75
+    4300028: pCone76
+    4300030: pPlane31
+    4300032: pPlane32
+    4300034: pPlane33
+    4300036: pPlane34
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
